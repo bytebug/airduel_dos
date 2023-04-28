@@ -1,11 +1,15 @@
 # airduel_dos
-An old game which I made in college. (Around 30 years ago.) Programming done by myself, and graphics assets were mostly done by Mikko Saario.
+An old game which I made in college. (Around 30 years ago.)
 
 Air Duel Version 0.90c
-Final Release 
+Final Release
+
 Date: April 11th, 1993 2:31 AM
+
 Programming by David CG Chae
+
 Graphics by Mikko Saario
+
 
 Hardware requirement:
 
